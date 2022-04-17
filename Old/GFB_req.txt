@@ -195,9 +195,6 @@ lxml=4.6.3=py39h9120a33_0
 lz4-c=1.9.3=h295c915_1
 lzo=2.10=h7b6447c_2
 markupsafe=1.1.1=py39h27cfd23_0
-matplotlib=3.4.3=py39h06a4308_0
-matplotlib-base=3.4.3=py39hbbc1b5f_0
-matplotlib-inline=0.1.2=pyhd3eb1b0_2
 mccabe=0.6.1=py39h06a4308_1
 mistune=0.8.4=py39h27cfd23_1000
 mkl=2021.4.0=h06a4308_640
