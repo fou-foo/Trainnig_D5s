@@ -1,6 +1,9 @@
 
 # Why another Set up ?
 
+
+
+
 ##### Dado el estado en el que estamos:
 
 La propuesta de este set up es: que **TODOS compartamos el mismo ambiente de trabajo LOCAL**, sin herramientas de AWS u otro cloud provider, solo utilizando herramientas open source como Git, Anaconda, Python y otros lenguajes (que puedan surgir en un task o proyecto relacionado a ciencia de datos).
