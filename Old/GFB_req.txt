@@ -69,7 +69,6 @@ cryptography=3.4.8=py39hd23ed53_0
 curl=7.78.0=h1ccaba5_0
 cycler=0.10.0=py39h06a4308_0
 cython=0.29.24=py39hdbfa776_0
-cytoolz=0.11.0=py39h27cfd23_0
 daal4py=2021.3.0=py39hae6d005_0
 dal=2021.3.0=h06a4308_557
 dask=2021.10.0=pyhd3eb1b0_0
